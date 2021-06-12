@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.8e76640f.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.fdd5394a.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.fdd5394a.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.dd16f43d.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.dd16f43d.js.map",
+    "static/js/2.b308598c.chunk.js": "/reactwebsite/static/js/2.b308598c.chunk.js",
+    "static/js/2.b308598c.chunk.js.map": "/reactwebsite/static/js/2.b308598c.chunk.js.map",
+    "index.html": "/reactwebsite/index.html",
+    "static/css/main.8e76640f.chunk.css.map": "/reactwebsite/static/css/main.8e76640f.chunk.css.map",
+    "static/js/2.b308598c.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.b308598c.chunk.js.LICENSE.txt",
+    "static/media/Thor-Ragnarok.07b86395.jpg": "/reactwebsite/static/media/Thor-Ragnarok.07b86395.jpg",
+    "static/media/aquaman.f0790cbd.jpg": "/reactwebsite/static/media/aquaman.f0790cbd.jpg",
+    "static/media/avenger-endgame.af9d2f5b.webp": "/reactwebsite/static/media/avenger-endgame.af9d2f5b.webp",
+    "static/media/avengers-infinity-war.1c90c834.jpg": "/reactwebsite/static/media/avengers-infinity-war.1c90c834.jpg",
+    "static/media/captain-america.9baf60fb.jpg": "/reactwebsite/static/media/captain-america.9baf60fb.jpg",
+    "static/media/game-of-thrones.66f5e827.png": "/reactwebsite/static/media/game-of-thrones.66f5e827.png",
+    "static/media/iron-man-3.def271d5.jpg": "/reactwebsite/static/media/iron-man-3.def271d5.jpg",
+    "static/media/iron-man.e1301ce9.jpg": "/reactwebsite/static/media/iron-man.e1301ce9.jpg",
+    "static/media/justice-league.9ebd5ce4.jpg": "/reactwebsite/static/media/justice-league.9ebd5ce4.jpg",
+    "static/media/pirates.deb1c2dd.jpg": "/reactwebsite/static/media/pirates.deb1c2dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd16f43d.js",
+    "static/js/2.b308598c.chunk.js",
+    "static/css/main.8e76640f.chunk.css",
+    "static/js/main.fdd5394a.chunk.js"
+  ]
+}
